@@ -1,6 +1,6 @@
-# 🛵 SwiftPath Rider App UI/UX Case Study
+# 🛵 Ting Rider App UI/UX Case Study
 
-SwiftPath Rider is an advanced delivery management application designed to empower riders with efficient route planning, real-time order monitoring, and streamlined earnings management.
+Ting Rider is an advanced delivery management application designed to empower riders with efficient route planning, real-time order monitoring, and streamlined earnings management.
 
 ---
 
